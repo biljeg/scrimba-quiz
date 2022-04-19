@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/scrimba-quiz/static/css/main.364e95d6.css",
+    "main.js": "/scrimba-quiz/static/js/main.d1093a5c.js",
+    "index.html": "/scrimba-quiz/index.html",
+    "main.364e95d6.css.map": "/scrimba-quiz/static/css/main.364e95d6.css.map",
+    "main.d1093a5c.js.map": "/scrimba-quiz/static/js/main.d1093a5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.364e95d6.css",
+    "static/js/main.d1093a5c.js"
+  ]
+}
